@@ -1,1 +1,2 @@
 # zombie2
+This is part 2 and part 3 of the Zombie Simulation Project. The alpha zombie is magenta, and the other zombies are pink. Zombies turn red when following a human. Humans turn yellow when resting, and cyan when running. For part 3, I added a "bomb" method to the ZombieModel, which produces "bombs" at random intervals that last from 5-20 turns. If a normal zombie runs into the bomb, it is killed. Bombs do not affect humans. 
